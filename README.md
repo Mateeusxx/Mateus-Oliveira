@@ -35,7 +35,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências.😄
-- Estou cursando Ciência da Computação. 💻
+- Estou cursando Análise E Desenvolvimento De Sistemas. 💻
 - Gosto de praticar esportes, dentre eles a corrida. 🏃‍♂️
 - Amo viajar.  💼
  
