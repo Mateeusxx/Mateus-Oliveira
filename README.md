@@ -22,7 +22,7 @@
 
 ```
 Estudante de Análise e Desenvolvimento De Sistemas pela Estácio De Sá - Polo Santa Bárbara MG. 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev Front-End.
+Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev Front-End.
 ```
 
 ## Tecnologias que estou estudando atualmente 💻
