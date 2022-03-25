@@ -7,9 +7,9 @@
 
 <hr>
 
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/mateeusxx)](https://www.instagram.com/mateeusxx/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=red&link=https://github.com/mateeusxx)](https://www.instagram.com/mateeusxx/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/mateeusxx)](https://www.linkedin.com/in/mateus-oliveira-331597177/)
-<a href = "mailto:mateuspvpp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
   
 </h4>
